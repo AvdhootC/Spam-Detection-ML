@@ -1,4 +1,4 @@
-# Spam-Detection-ML
+# Spam-Shield-ML
 A spam email classifier using Python and TensorFlow with NLP techniques. It preprocesses text using TF-IDF vectorization and classifies messages with Logistic Regression. The model is trained on labeled spam and non-spam data.
 Key Features
 	• Data Preprocessing: Converts text to lowercase, removes stopwords, and tokenizes words
